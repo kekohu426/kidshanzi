@@ -1,0 +1,56 @@
+[
+  {
+    "char": "钱",
+    "pinyin": "qián",
+    "strokes": 10,
+    "strokeOrder": "撇、横、横、横、竖提、撇、横、竖、撇、捺",
+    "evolution": ["/images/cute_boy_money_coins_illustration_children.jpg", "/images/cute_child_piggy_bank_coins_illustration.jpg", "/images/cute-child-money-savings-education-toys-illustration.jpg"],
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Zh-qi%C3%A1n.ogg",
+    "components": [
+      {"part": "钅", "meaning": "金属相关，表示与金属、货币有关"},
+      {"part": "戋", "meaning": "表音，同时有'少'的含义"}
+    ],
+    "wordCards": [
+      {"word": "零钱", "img": "/images/cute_child_piggy_bank_coins_illustration.jpg", "hint": "口袋里的小钱币"},
+      {"word": "花钱", "img": "/images/kids_shopping_cart_spending_illustration.jpg", "hint": "买东西用钱"},
+      {"word": "赚钱", "img": "/images/earning_money_online_illustration_for_kids.jpg", "hint": "工作获得钱"}
+    ],
+    "quiz": {
+      "similarChars": ["钳", "浅", "栈"]
+    },
+    "srs": {
+      "ease": 2.5,
+      "interval": 1,
+      "due": ""
+    },
+    "meaning": "货币，用于交换的金属制品",
+    "story": "古时候用金属制作钱币，钅旁表示金属，戋表示少量，合起来就是少量的金属制品，即钱币。"
+  },
+  {
+    "char": "忘",
+    "pinyin": "wàng",
+    "strokes": 7,
+    "strokeOrder": "点、横、竖弯钩、点、斜钩、点、点",
+    "evolution": ["/images/cartoon_brain_question_mark_forgetting_concept_kids.jpg", "/images/abstract-illustration-lost-memory-forgotten-thoughts-brain.jpg", "/images/the-forgetting-curve-memory-loss-child-illustration.jpg"],
+    "audio": "https://commons.wikimedia.org/wiki/Special:FilePath/Zh-w%C3%A0ng.ogg",
+    "components": [
+      {"part": "亡", "meaning": "无、丢失的意思"},
+      {"part": "心", "meaning": "心、记忆、思维"}
+    ],
+    "wordCards": [
+      {"word": "忘记", "img": "/images/cartoon_brain_question_mark_forgetting_concept_kids.jpg", "hint": "不记得了，丢失了记忆"},
+      {"word": "遗忘", "img": "/images/abstract-illustration-lost-memory-forgotten-thoughts-brain.jpg", "hint": "时间长了就忘了"},
+      {"word": "难忘", "img": "/images/happy_kids_birthday_celebration_illustration.jpg", "hint": "很难忘记的事情"}
+    ],
+    "quiz": {
+      "similarChars": ["忙", "望", "芒"]
+    },
+    "srs": {
+      "ease": 2.5,
+      "interval": 1,
+      "due": ""
+    },
+    "meaning": "不记得，失去记忆",
+    "story": "亡表示丢失，心表示记忆，当心中的记忆丢失了，就是忘记。"
+  }
+]
